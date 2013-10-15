@@ -1,0 +1,6 @@
+package com.everis.dao;
+
+public interface LoginDAO {
+public Login getLogin(int id);
+
+}

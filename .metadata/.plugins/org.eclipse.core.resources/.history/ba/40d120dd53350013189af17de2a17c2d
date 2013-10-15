@@ -1,0 +1,8 @@
+package com.everis.model.entity;
+
+public class Login {
+private int id;
+private String user;
+private String password;
+
+}
